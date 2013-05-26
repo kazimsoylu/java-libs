@@ -28,7 +28,7 @@ public class TermUtilsTest
 		list.add( 2200 );
 		list.add( 2500 );
 		list.add( 2600 );
-		list.add( 2700 );
+		list.add( 2700 ); 
 		list.add( 3200 );
 		list.add( 3300 );
 
